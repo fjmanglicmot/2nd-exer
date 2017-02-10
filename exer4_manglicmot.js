@@ -128,3 +128,4 @@ numbertoWord(c5,c6)
 numbertoWord(c7,c8)
 numbertoWord(c9,c10)
 numbertoWord(c11,c12)
+# Exer-4
